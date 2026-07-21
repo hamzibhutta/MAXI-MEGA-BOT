@@ -1,12 +1,12 @@
 {
   "PORT": 5000,
   "LOGIN_METHOD": "appstate",
-  "BOTNAME": "🩷𓆩๛⃝𝐌𝐀𝐍𝐎𓆪𓆤",
+  "BOTNAME": "🩷MAXII𓆪𓆤",
   "PREFIX": ".",
   "ADMINBOT": [],
   "ADMIN_NAME": "Sardar RDX",
   "ADMINBOT_NAMES": {
-    "61577647262557": "Sardar RDX"
+    "61591037762579": "Sardar RDX"
   },
   "PREFIX_ENABLED": true,
   "REACT_DELETE_EMOJI": "😡",
